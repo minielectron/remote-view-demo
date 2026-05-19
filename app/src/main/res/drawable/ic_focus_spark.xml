@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/notification_badge"
+        android:pathData="M12,2l1.09,3.26L16,6.18l-2.91,2.12L13.82,12 12,10.18 10.18,12l0.73,-3.7L8,6.18l2.91,-0.92L12,2zM5,14l1.5,1.5L5,17l-1.5,-1.5L5,14zM19,14l1.5,1.5L19,17l-1.5,-1.5L19,14zM12,18l1.5,3L12,20.5 10.5,21 12,18z" />
+</vector>

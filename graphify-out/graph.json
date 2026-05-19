@@ -1,0 +1,574 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "build.gradle.kts",
+      "file_type": "code",
+      "source_file": "build.gradle.kts",
+      "source_location": "L1",
+      "id": "build_gradle_kts",
+      "community": 6,
+      "norm_label": "build.gradle.kts"
+    },
+    {
+      "label": "settings.gradle.kts",
+      "file_type": "code",
+      "source_file": "settings.gradle.kts",
+      "source_location": "L1",
+      "id": "settings_gradle_kts",
+      "community": 7,
+      "norm_label": "settings.gradle.kts"
+    },
+    {
+      "label": "build.gradle.kts",
+      "file_type": "code",
+      "source_file": "app/build.gradle.kts",
+      "source_location": "L1",
+      "id": "app_build_gradle_kts",
+      "community": 8,
+      "norm_label": "build.gradle.kts"
+    },
+    {
+      "label": "ExampleInstrumentedTest.kt",
+      "file_type": "code",
+      "source_file": "app/src/androidTest/java/com/trricho/remote_view_demo/ExampleInstrumentedTest.kt",
+      "source_location": "L1",
+      "id": "app_src_androidtest_java_com_trricho_remote_view_demo_exampleinstrumentedtest_kt",
+      "community": 3,
+      "norm_label": "exampleinstrumentedtest.kt"
+    },
+    {
+      "label": "ExampleInstrumentedTest",
+      "file_type": "code",
+      "source_file": "app/src/androidTest/java/com/trricho/remote_view_demo/ExampleInstrumentedTest.kt",
+      "source_location": "L16",
+      "id": "exampleinstrumentedtest_exampleinstrumentedtest",
+      "community": 3,
+      "norm_label": "exampleinstrumentedtest"
+    },
+    {
+      "label": ".useAppContext()",
+      "file_type": "code",
+      "source_file": "app/src/androidTest/java/com/trricho/remote_view_demo/ExampleInstrumentedTest.kt",
+      "source_location": "L18",
+      "id": "exampleinstrumentedtest_exampleinstrumentedtest_useappcontext",
+      "community": 3,
+      "norm_label": ".useappcontext()"
+    },
+    {
+      "label": "ExampleUnitTest.kt",
+      "file_type": "code",
+      "source_file": "app/src/test/java/com/trricho/remote_view_demo/ExampleUnitTest.kt",
+      "source_location": "L1",
+      "id": "app_src_test_java_com_trricho_remote_view_demo_exampleunittest_kt",
+      "community": 4,
+      "norm_label": "exampleunittest.kt"
+    },
+    {
+      "label": "ExampleUnitTest",
+      "file_type": "code",
+      "source_file": "app/src/test/java/com/trricho/remote_view_demo/ExampleUnitTest.kt",
+      "source_location": "L12",
+      "id": "exampleunittest_exampleunittest",
+      "community": 4,
+      "norm_label": "exampleunittest"
+    },
+    {
+      "label": ".addition_isCorrect()",
+      "file_type": "code",
+      "source_file": "app/src/test/java/com/trricho/remote_view_demo/ExampleUnitTest.kt",
+      "source_location": "L13",
+      "id": "exampleunittest_exampleunittest_addition_iscorrect",
+      "community": 4,
+      "norm_label": ".addition_iscorrect()"
+    },
+    {
+      "label": "MainActivity.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_trricho_remote_view_demo_mainactivity_kt",
+      "community": 2,
+      "norm_label": "mainactivity.kt"
+    },
+    {
+      "label": "MainActivity",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L16",
+      "id": "mainactivity_mainactivity",
+      "community": 2,
+      "norm_label": "mainactivity"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L28",
+      "id": "mainactivity_mainactivity_oncreate",
+      "community": 2,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": ".showDemoNotification()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L56",
+      "id": "mainactivity_mainactivity_showdemonotification",
+      "community": 2,
+      "norm_label": ".showdemonotification()"
+    },
+    {
+      "label": ".runWithNotificationPermission()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L61",
+      "id": "mainactivity_mainactivity_runwithnotificationpermission",
+      "community": 2,
+      "norm_label": ".runwithnotificationpermission()"
+    },
+    {
+      "label": "NotificationState.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_trricho_remote_view_demo_notificationstate_kt",
+      "community": 1,
+      "norm_label": "notificationstate.kt"
+    },
+    {
+      "label": "NotificationState",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L3",
+      "id": "notificationstate_notificationstate",
+      "community": 1,
+      "norm_label": "notificationstate"
+    },
+    {
+      "label": ".bumpProgress()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L12",
+      "id": "notificationstate_notificationstate_bumpprogress",
+      "community": 1,
+      "norm_label": ".bumpprogress()"
+    },
+    {
+      "label": ".markDone()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L20",
+      "id": "notificationstate_notificationstate_markdone",
+      "community": 1,
+      "norm_label": ".markdone()"
+    },
+    {
+      "label": ".snooze()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L25",
+      "id": "notificationstate_notificationstate_snooze",
+      "community": 1,
+      "norm_label": ".snooze()"
+    },
+    {
+      "label": ".reset()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L30",
+      "id": "notificationstate_notificationstate_reset",
+      "community": 1,
+      "norm_label": ".reset()"
+    },
+    {
+      "label": "CustomNotificationHelper.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_trricho_remote_view_demo_customnotificationhelper_kt",
+      "community": 0,
+      "norm_label": "customnotificationhelper.kt"
+    },
+    {
+      "label": "CustomNotificationHelper",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L17",
+      "id": "customnotificationhelper_customnotificationhelper",
+      "community": 0,
+      "norm_label": "customnotificationhelper"
+    },
+    {
+      "label": ".createChannel()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L21",
+      "id": "customnotificationhelper_customnotificationhelper_createchannel",
+      "community": 0,
+      "norm_label": ".createchannel()"
+    },
+    {
+      "label": ".show()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L33",
+      "id": "customnotificationhelper_customnotificationhelper_show",
+      "community": 0,
+      "norm_label": ".show()"
+    },
+    {
+      "label": ".dismiss()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L52",
+      "id": "customnotificationhelper_customnotificationhelper_dismiss",
+      "community": 0,
+      "norm_label": ".dismiss()"
+    },
+    {
+      "label": ".buildRemoteViews()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L58",
+      "id": "customnotificationhelper_customnotificationhelper_buildremoteviews",
+      "community": 0,
+      "norm_label": ".buildremoteviews()"
+    },
+    {
+      "label": ".actionPendingIntent()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L98",
+      "id": "customnotificationhelper_customnotificationhelper_actionpendingintent",
+      "community": 0,
+      "norm_label": ".actionpendingintent()"
+    },
+    {
+      "label": ".openAppPendingIntent()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L110",
+      "id": "customnotificationhelper_customnotificationhelper_openapppendingintent",
+      "community": 0,
+      "norm_label": ".openapppendingintent()"
+    },
+    {
+      "label": ".color()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L122",
+      "id": "customnotificationhelper_customnotificationhelper_color",
+      "community": 0,
+      "norm_label": ".color()"
+    },
+    {
+      "label": "NotificationActionReceiver.kt",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationActionReceiver.kt",
+      "source_location": "L1",
+      "id": "app_src_main_java_com_trricho_remote_view_demo_notificationactionreceiver_kt",
+      "community": 5,
+      "norm_label": "notificationactionreceiver.kt"
+    },
+    {
+      "label": "NotificationActionReceiver",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationActionReceiver.kt",
+      "source_location": "L9",
+      "id": "notificationactionreceiver_notificationactionreceiver",
+      "community": 5,
+      "norm_label": "notificationactionreceiver"
+    },
+    {
+      "label": ".onReceive()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationActionReceiver.kt",
+      "source_location": "L11",
+      "id": "notificationactionreceiver_notificationactionreceiver_onreceive",
+      "community": 5,
+      "norm_label": ".onreceive()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/androidTest/java/com/trricho/remote_view_demo/ExampleInstrumentedTest.kt",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "app_src_androidtest_java_com_trricho_remote_view_demo_exampleinstrumentedtest_kt",
+      "_tgt": "exampleinstrumentedtest_exampleinstrumentedtest",
+      "source": "app_src_androidtest_java_com_trricho_remote_view_demo_exampleinstrumentedtest_kt",
+      "target": "exampleinstrumentedtest_exampleinstrumentedtest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/androidTest/java/com/trricho/remote_view_demo/ExampleInstrumentedTest.kt",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "exampleinstrumentedtest_exampleinstrumentedtest",
+      "_tgt": "exampleinstrumentedtest_exampleinstrumentedtest_useappcontext",
+      "source": "exampleinstrumentedtest_exampleinstrumentedtest",
+      "target": "exampleinstrumentedtest_exampleinstrumentedtest_useappcontext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/test/java/com/trricho/remote_view_demo/ExampleUnitTest.kt",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "app_src_test_java_com_trricho_remote_view_demo_exampleunittest_kt",
+      "_tgt": "exampleunittest_exampleunittest",
+      "source": "app_src_test_java_com_trricho_remote_view_demo_exampleunittest_kt",
+      "target": "exampleunittest_exampleunittest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/test/java/com/trricho/remote_view_demo/ExampleUnitTest.kt",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "exampleunittest_exampleunittest",
+      "_tgt": "exampleunittest_exampleunittest_addition_iscorrect",
+      "source": "exampleunittest_exampleunittest",
+      "target": "exampleunittest_exampleunittest_addition_iscorrect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "app_src_main_java_com_trricho_remote_view_demo_mainactivity_kt",
+      "_tgt": "mainactivity_mainactivity",
+      "source": "app_src_main_java_com_trricho_remote_view_demo_mainactivity_kt",
+      "target": "mainactivity_mainactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "mainactivity_mainactivity",
+      "_tgt": "mainactivity_mainactivity_oncreate",
+      "source": "mainactivity_mainactivity",
+      "target": "mainactivity_mainactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "mainactivity_mainactivity",
+      "_tgt": "mainactivity_mainactivity_showdemonotification",
+      "source": "mainactivity_mainactivity",
+      "target": "mainactivity_mainactivity_showdemonotification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/MainActivity.kt",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_src": "mainactivity_mainactivity",
+      "_tgt": "mainactivity_mainactivity_runwithnotificationpermission",
+      "source": "mainactivity_mainactivity",
+      "target": "mainactivity_mainactivity_runwithnotificationpermission",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "app_src_main_java_com_trricho_remote_view_demo_notificationstate_kt",
+      "_tgt": "notificationstate_notificationstate",
+      "source": "app_src_main_java_com_trricho_remote_view_demo_notificationstate_kt",
+      "target": "notificationstate_notificationstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "notificationstate_notificationstate",
+      "_tgt": "notificationstate_notificationstate_bumpprogress",
+      "source": "notificationstate_notificationstate",
+      "target": "notificationstate_notificationstate_bumpprogress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "notificationstate_notificationstate",
+      "_tgt": "notificationstate_notificationstate_markdone",
+      "source": "notificationstate_notificationstate",
+      "target": "notificationstate_notificationstate_markdone",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "notificationstate_notificationstate",
+      "_tgt": "notificationstate_notificationstate_snooze",
+      "source": "notificationstate_notificationstate",
+      "target": "notificationstate_notificationstate_snooze",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationState.kt",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "notificationstate_notificationstate",
+      "_tgt": "notificationstate_notificationstate_reset",
+      "source": "notificationstate_notificationstate",
+      "target": "notificationstate_notificationstate_reset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "app_src_main_java_com_trricho_remote_view_demo_customnotificationhelper_kt",
+      "_tgt": "customnotificationhelper_customnotificationhelper",
+      "source": "app_src_main_java_com_trricho_remote_view_demo_customnotificationhelper_kt",
+      "target": "customnotificationhelper_customnotificationhelper",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "customnotificationhelper_customnotificationhelper",
+      "_tgt": "customnotificationhelper_customnotificationhelper_createchannel",
+      "source": "customnotificationhelper_customnotificationhelper",
+      "target": "customnotificationhelper_customnotificationhelper_createchannel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_src": "customnotificationhelper_customnotificationhelper",
+      "_tgt": "customnotificationhelper_customnotificationhelper_show",
+      "source": "customnotificationhelper_customnotificationhelper",
+      "target": "customnotificationhelper_customnotificationhelper_show",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "customnotificationhelper_customnotificationhelper",
+      "_tgt": "customnotificationhelper_customnotificationhelper_dismiss",
+      "source": "customnotificationhelper_customnotificationhelper",
+      "target": "customnotificationhelper_customnotificationhelper_dismiss",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "customnotificationhelper_customnotificationhelper",
+      "_tgt": "customnotificationhelper_customnotificationhelper_buildremoteviews",
+      "source": "customnotificationhelper_customnotificationhelper",
+      "target": "customnotificationhelper_customnotificationhelper_buildremoteviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L98",
+      "weight": 1.0,
+      "_src": "customnotificationhelper_customnotificationhelper",
+      "_tgt": "customnotificationhelper_customnotificationhelper_actionpendingintent",
+      "source": "customnotificationhelper_customnotificationhelper",
+      "target": "customnotificationhelper_customnotificationhelper_actionpendingintent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L110",
+      "weight": 1.0,
+      "_src": "customnotificationhelper_customnotificationhelper",
+      "_tgt": "customnotificationhelper_customnotificationhelper_openapppendingintent",
+      "source": "customnotificationhelper_customnotificationhelper",
+      "target": "customnotificationhelper_customnotificationhelper_openapppendingintent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/CustomNotificationHelper.kt",
+      "source_location": "L122",
+      "weight": 1.0,
+      "_src": "customnotificationhelper_customnotificationhelper",
+      "_tgt": "customnotificationhelper_customnotificationhelper_color",
+      "source": "customnotificationhelper_customnotificationhelper",
+      "target": "customnotificationhelper_customnotificationhelper_color",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationActionReceiver.kt",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_src_main_java_com_trricho_remote_view_demo_notificationactionreceiver_kt",
+      "_tgt": "notificationactionreceiver_notificationactionreceiver",
+      "source": "app_src_main_java_com_trricho_remote_view_demo_notificationactionreceiver_kt",
+      "target": "notificationactionreceiver_notificationactionreceiver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/com/trricho/remote_view_demo/NotificationActionReceiver.kt",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "notificationactionreceiver_notificationactionreceiver",
+      "_tgt": "notificationactionreceiver_notificationactionreceiver_onreceive",
+      "source": "notificationactionreceiver_notificationactionreceiver",
+      "target": "notificationactionreceiver_notificationactionreceiver_onreceive",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

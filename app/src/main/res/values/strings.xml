@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RemoteViews Demo</string>
+
+    <string name="main_title">RemoteViews Notification Demo</string>
+    <string name="main_subtitle">Custom UI rendered by System UI from a serialized Action list — not live View objects.</string>
+    <string name="btn_show_notification">Show custom notification</string>
+    <string name="btn_update_progress">Bump progress (+15%)</string>
+    <string name="btn_dismiss">Dismiss notification</string>
+    <string name="permission_required">Notification permission is required for this demo.</string>
+
+    <string name="notification_channel_name">RemoteViews demo</string>
+    <string name="notification_channel_desc">Shows a custom notification built with RemoteViews</string>
+    <string name="notification_icon_desc">Focus task icon</string>
+    <string name="notification_title_default">Ship RemoteViews demo</string>
+    <string name="notification_subtitle_default">System UI inflates your layout &amp; replays Actions</string>
+    <string name="notification_body_default">This card lives in the notification shade but is built from framework Views only. Your app sends a recipe (RemoteViews); System UI cooks it in its own process.</string>
+    <string name="notification_badge_default">3 left</string>
+    <string name="notification_btn_done">Mark done</string>
+    <string name="notification_btn_snooze">Snooze 1h</string>
+    <string name="notification_remoteviews_hint">Tap buttons — clicks use PendingIntent tokens, not OnClickListener</string>
+    <string name="notification_progress_format">%1$d%%</string>
+    <string name="notification_done_title">All done!</string>
+    <string name="notification_done_subtitle">RemoteViews updated from BroadcastReceiver</string>
+    <string name="notification_done_badge">Complete</string>
+    <string name="notification_snooze_toast">Snoozed — notification updated via RemoteViews</string>
+    <string name="notification_done_toast">Marked done — check the updated notification</string>
+</resources>
